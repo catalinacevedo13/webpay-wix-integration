@@ -1,0 +1,9 @@
+{
+  "name": "webpay-wix-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "transbank-sdk": "^1.3.1"
+  }
+}
